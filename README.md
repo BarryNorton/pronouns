@@ -5,9 +5,9 @@ This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/docume
 
 ## Acknowledgements
 
-The Syntactic Ngrams corpus is documented in Goldberg and Orwant (2013)[[1]](#1).
+The Syntactic Ngrams corpus is documented in Goldberg and Orwant (ACL 2013) [[1]](#1).
 
-This analysis was aided by the authors of Hoyle et al., (ACL 2019)[[2]](#2).
+This analysis was aided by the authors of Hoyle et al., (ACL 2019) [[2]](#2).
 
 ***
 
