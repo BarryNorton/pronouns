@@ -62,7 +62,7 @@ as well as American dialect terms like 'yo'self'.
 Strikethrough is used to indicate that, 
 although the regex for reflexive forms does a relatively good job of cleaning up a lot of misidentified pronouns (from the POS tagger), 
 the word 'mademoiselle' slips through due to its lexical form. 
-Less troublingly, the word 'ltself' appears in the full listings &mdash; this is likely due to flawed OCR).
+Less troublingly, the word 'ltself' appears in the full listings (this is likely due to flawed OCR).
 
 ***
 
