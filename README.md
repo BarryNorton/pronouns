@@ -7,6 +7,10 @@ This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/docume
 
 Based on projections over the respective Syntactic-Ngrams verbargs files, and filtering with a regex (r'sel\[fvl\]'), the following candidate lists of pronouns (PRP) as direct objects (dobj) are obtained and ranked by frequency (see [Methodology](#methodology) for more details):
 
+| **English**      | **English Fiction** |
+|------------------|---------------------|
+| himself: 8979386 | himself: 8979386    |
+
 ***
 
 ## Methodology
