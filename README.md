@@ -1,10 +1,17 @@
 # Pronouns in English-language fiction
-This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/document/d/14PWeoTkrnKk9H8_7CfVbdvuoFZ7jYivNTkBX2Hj7qLw/), based on the Google Books corpus and containing parse fragments with [Penn-Treebank part-of-speech (POS) tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html), to discover and validate the pronouns contained and tagged therein. 
+This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/document/d/14PWeoTkrnKk9H8_7CfVbdvuoFZ7jYivNTkBX2Hj7qLw/), based on the Google Books corpus and containing parse fragments with [Penn-Treebank part-of-speech (POS) tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html), to discover and validate the pronouns contained and tagged therein and to compare the frequency results between the general English corpus and the partition for fiction.
+
+***
+
+## Results
+
+Based on projections over the respective Syntactic-Ngrams verbargs files, and filtering with a regex (r'sel\[fvl\]'), the following candidate lists of pronouns (PRP) as direct objects (dobj) are obtained and ranked by frequency (see [Methodology](#methodology) for more details):
 
 ***
 
 ## Methodology
-
+<a id="methodology"></a>
+  
 The first challenge in approaching this problem is the broken link to the Syntactic Ngrams corpus. It is, however, still contained in a [cache](https://web.archive.org/web/20210621193950/https://storage.googleapis.com/books/syntactic-ngrams/index.html) via the Internet Archive.
 
 ***
