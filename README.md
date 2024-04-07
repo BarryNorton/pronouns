@@ -3,4 +3,4 @@ This project uses the ['Syntactic N-grams' corpus](https://docs.google.com/docum
 
 All code is made available using the MIT license (contained in the repository).
 
-![CC-BY 4.0 logo]([URL or file path](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)) This text and its embedded resources are made available under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+![CC-BY 4.0 logo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png) This text and its embedded resources are made available under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
