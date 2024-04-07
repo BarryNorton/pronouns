@@ -14,7 +14,10 @@ Based on projections over the respective Syntactic-Ngrams verbargs files,
 and filtering with a regex (r'sel\[fvl\]') to approximate reflexivity, 
 the following candidate lists of pronouns (PRP) as direct objects (dobj) are obtained and ranked by frequency,
 truncated to include the gender-neutral singular reflexive pronoun 'themself'
-(see [Methodology](#methodology) for more details, and [Appendix A](#appendixA) for the full listings):
+(see [Methodology](#methodology) for more details; 
+[candidates-eng.txt](https://github.com/BarryNorton/pronouns/blob/main/candidates-eng.txt) and 
+[candidates-fiction.txt](https://github.com/BarryNorton/pronouns/blob/main/candidates-fiction.txt)
+for the full listings):
 
 | **English**      | **English Fiction** |
 |------------------|---------------------|
@@ -48,11 +51,18 @@ truncated to include the gender-neutral singular reflexive pronoun 'themself'
 | itselfe: 136|**themself: 82**
 
 There are a few features of these lists to which bold font is used to draw attention:
-1. The relative prominence of 'himself' and 'herself' (interestingly much more balanced in fiction);
-2. The relative prominence of the ungendered _plural_ pronoun 'themselves' to these;
-3. The relative prominence of the ungendered _singular_ pronoun 'themself' (interestingly much _less_ prominent in fiction, at least historically).
+1. the relative prominence of 'himself' and 'herself' (interestingly much more balanced in fiction);
+2. the relative prominence of the ungendered _plural_ pronoun 'themselves' to these;
+3. the relative prominence of the ungendered _singular_ pronoun 'themself' (interestingly much _less_ prominent in fiction, at least historically).
 
-Strikethrough is used to indicate that, although the regex for reflexive forms does a relatively good job of cleaning up a lot of misidentified pronouns (from the POS tagger), the word 'mademoiselle' slips through due to its lexical form.
+It is also worth noting the relative prominence of dialectical pronouns, 
+such as 'isself' (a variant of the already non-standard 'hisself', used in my own native dialect), 
+as well as American dialect terms like 'yo'self'.
+
+Strikethrough is used to indicate that, 
+although the regex for reflexive forms does a relatively good job of cleaning up a lot of misidentified pronouns (from the POS tagger), 
+the word 'mademoiselle' slips through due to its lexical form. 
+Less troublingly, the word 'ltself' appears in the full listings (this is likely due to flawed OCR).
 
 ***
 
