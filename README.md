@@ -1,5 +1,8 @@
 # Pronouns in English-language fiction
-This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/document/d/14PWeoTkrnKk9H8_7CfVbdvuoFZ7jYivNTkBX2Hj7qLw/), based on the Google Books corpus and containing parse fragments with [Penn-Treebank part-of-speech (POS) tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html), to discover and validate the reflexive pronouns contained and tagged therein and to compare the frequency results between the general English corpus and the partition for fiction.
+This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/document/d/14PWeoTkrnKk9H8_7CfVbdvuoFZ7jYivNTkBX2Hj7qLw/), 
+based on the Google Books corpus and containing parse fragments with [Penn-Treebank part-of-speech (POS) tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html), 
+to discover and validate the reflexive pronouns contained and tagged therein, 
+and to compare the frequency results between the general English corpus and the partition for fiction.
 
 ***
 
