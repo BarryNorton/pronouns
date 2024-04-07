@@ -55,7 +55,10 @@ There are a few features of these lists to which bold font is used to draw atten
 2. The relative prominence of the ungendered _plural_ pronoun 'themselves' to these;
 3. The relative prominence of the ungendered _singular_ pronoun 'themself' (interestingly much _less_ prominent in fiction, at least historically).
 
-Strikethrough is used to indicate that, although the regex for reflexive forms does a relatively good job of cleaning up a lot of misidentified pronouns (from the POS tagger), the word 'mademoiselle' slips through due to its lexical form.
+Strikethrough is used to indicate that, 
+although the regex for reflexive forms does a relatively good job of cleaning up a lot of misidentified pronouns (from the POS tagger), 
+the word 'mademoiselle' slips through due to its lexical form. 
+Less troublingly, the word 'ltself' appears in the full listings &mdash; this is likely due to flawed OCR).
 
 ***
 
