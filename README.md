@@ -8,6 +8,8 @@ and to compare the frequency results between the general English corpus and the 
 
 ## Results
 
+### Candidate Reflexive Pronouns
+
 Based on projections over the respective Syntactic-Ngrams verbargs files, 
 and filtering with a regex (r'sel\[fvl\]') to approximate reflexivity, 
 the following candidate lists of pronouns (PRP) as direct objects (dobj) are obtained and ranked by frequency,
