@@ -46,9 +46,9 @@ truncated to include the gender-neutral singular reflexive pronoun 'themself'
 | itselfe: 136|**themself: 82**
 
 There are a few features of these lists to which bold font is used to draw attention:
-1. The relative prominence of 'himself' and 'herself' (much more balanced in fiction);
+1. The relative prominence of 'himself' and 'herself' (interestingly much more balanced in fiction);
 2. The relative prominence of the ungendered _plural_ pronoun 'themselves' to these;
-3. The relative prominence of the ungendered _singular_ pronoun 'themself'.
+3. The relative prominence of the ungendered _singular_ pronoun 'themself' (interestingly much _less_ prominent in fiction, at least historically).
 
 Strikethrough is used to indicate that, although the regex does a relatively good job of cleaning up a lot of misidentified pronouns (in the POS tagger), the word 'mademoiselle' slips through due to its lexical form.
 
