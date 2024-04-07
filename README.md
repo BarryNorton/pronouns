@@ -9,68 +9,34 @@ Based on projections over the respective Syntactic-Ngrams verbargs files, and fi
 
 | **English**      | **English Fiction** |
 |------------------|---------------------|
-| himself: 8979386 | himself: 8979386    |
-| themselves: 5578605
-| itself: 3409264
-| myself: 3014093
-| herself: 2329877
-| yourself: 1623751
-| ourselves: 1404367
-| oneself: 219794
-| yourselves: 143277
-| thyself: 77279
-| himselfe: 4020
-| hisself: 3088
-| ourself: 1380
-| yerself: 1238
-| meself: 1079
-| yoursell: 866
-| imself: 414
-| themself: 316
-| yo'self: 291
-| herselfe: 243
-| mademoiselle: 237
-| isself: 221
-| myselfe: 208
-| mysell: 202
-| erself: 149
-| himsell: 144
-| heself: 136
-| itselfe: 136
-| yoursells: 82
-| yoreself: 65
-| youself: 61
-| theirself: 55
-| hymself: 51
-| yourselfe: 47
-| maself: 44
-| itself1: 40
-| you'self: 36
-| y'self: 30
-| hirself: 29
-| thyselfe: 29
-| yeself: 24
-| m'self: 22
-| mahself: 21
-| yuhself: 16
-| yusself: 15
-| sheself: 15
-| meselfe: 14
-| one'sself: 13
-| y'rself: 13
-| itsselfe: 13
-| theeself: 12
-| self: 12
-| myselffe: 12
-| yourselvesf: 12
-| aself: 12
-| itsell: 11
-| inself: 11
-| hymselfe: 11
-| themselfe: 11
-| iself: 10
-| weself: 10
-| ltself: 10
+| himself: 8979386 |himself: 3207256
+| themselves: 5578605|herself: 1408594
+| itself: 3409264|myself: 1296374
+| myself: 3014093|themselves: 931156
+| herself: 2329877|yourself: 636914
+| yourself: 1623751|itself: 495199
+| ourselves: 1404367|ourselves: 255542
+| oneself: 219794|yourselves: 41846
+| yourselves: 143277|oneself: 27295
+| thyself: 77279|thyself: 19193
+| himselfe: 4020|hisself: 2384
+| hisself: 3088|yerself: 1106
+| ourself: 1380|meself: 724
+| yerself: 1238|yoursell: 719
+| meself: 1079|imself: 533
+| yoursell: 866|ourself: 356
+| imself: 414|mademoiselle: 316
+| themself: 316|isself: 304
+| yo'self: 291|yo'self: 281
+| herselfe: 243|himselfe: 190
+| mademoiselle: 237|heself: 165
+| isself: 221|erself: 156
+| myselfe: 208|himsell: 155
+| mysell: 202|hetself: 154
+| erself: 149|mysell: 142
+| himsell: 144|yoursells: 88
+| heself: 136|hymself: 83
+| itselfe: 136|themself: 82
 
 ***
 
