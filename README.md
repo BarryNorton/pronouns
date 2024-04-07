@@ -3,6 +3,12 @@ This project uses the ['Syntactic Ngrams' corpus](https://docs.google.com/docume
 
 ***
 
+## Methodology
+
+The first challenge in approaching this problem is the broken link to the Syntactic Ngrams corpus. It is, however, still contained in a [cache](https://web.archive.org/web/20210621193950/https://storage.googleapis.com/books/syntactic-ngrams/index.html) via the Internet Archive.
+
+***
+
 ## Acknowledgements
 
 The Syntactic Ngrams corpus is documented in Goldberg and Orwant (ACL 2013) [[1]](#1).
