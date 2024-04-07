@@ -14,7 +14,10 @@ Based on projections over the respective Syntactic-Ngrams verbargs files,
 and filtering with a regex (r'sel\[fvl\]') to approximate reflexivity, 
 the following candidate lists of pronouns (PRP) as direct objects (dobj) are obtained and ranked by frequency,
 truncated to include the gender-neutral singular reflexive pronoun 'themself'
-(see [Methodology](#methodology) for more details, and [Appendix A](#appendixA) for the full listings):
+(see [Methodology](#methodology) for more details; 
+[candidates-eng.txt](https://github.com/BarryNorton/pronouns/blob/main/candidates-eng.txt) and 
+[candidates-fiction.txt](https://github.com/BarryNorton/pronouns/blob/main/candidates-fiction.txt)
+for the full listings):
 
 | **English**      | **English Fiction** |
 |------------------|---------------------|
