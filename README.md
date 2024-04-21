@@ -33,10 +33,10 @@ for the full listings):
 | thyself: 77279|thyself: 19193
 | himselfe: 4020|hisself: 2384
 | hisself: 3088|yerself: 1106
-| ourself: 1380|meself: 724
+| **ourself: 1380**|meself: 724
 | yerself: 1238|yoursell: 719
 | meself: 1079|imself: 533
-| yoursell: 866|ourself: 356
+| yoursell: 866|**ourself: 356**
 | imself: 414|~~mademoiselle: 316~~
 | **themself: 316**|isself: 304
 | yo'self: 291|yo'self: 281
